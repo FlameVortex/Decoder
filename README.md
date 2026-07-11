@@ -56,7 +56,7 @@ This tool is designed to decode, **Encryption** using this decoder.
 Copy and paste the code below into your Termux terminal to start the setup:
 
 ```bash
-yes | pkg update && yes | pkg upgrade && pkg install -y python git && rm -rf Decoder && git clone https://github.com/FlameVortex/Decoder.git && cd Decoder && pip install -r requirements.txt && python decoder.py
+yes | pkg update && yes | pkg upgrade && pkg install -y python git && rm -rf Decoder && git clone https://github.com/FlameVortex/Decoder.git && cd Decoder && pip install -r requirements.txt && python run.py
 ```
 
 ---
